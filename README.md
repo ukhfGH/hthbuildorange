@@ -1,3 +1,7 @@
+# Description
+
+Were working on learning how to use github as a team
+
 # hthbuildorange
 Panko is the best cat. 
 
